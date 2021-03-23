@@ -1,0 +1,19 @@
+.social-media-icons {
+    background-color:blue;
+    height: 30px;
+}
+
+.search {
+    background-color: red;
+    height: 30px;
+}
+
+.main-menu ul li,
+.footer-menu ul li {
+    display: inline;
+}
+
+.wp-post-image {
+    float: left;
+}
+
